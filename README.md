@@ -21,8 +21,11 @@ npm install
 
 npm run serve
 
-cd ..
+```
 
+Open another terminal window and run these commands
+
+```sh
 cd server
 
 npm install
@@ -32,7 +35,7 @@ npm start
 
 Now you are good to go, you can access BlogIT Project through http://127.0.0.1:8080
 
-create new account and have fun..
+Create new account and have fun..
 
 ## License
 
