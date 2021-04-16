@@ -1,6 +1,6 @@
 ## About BlogIT
 
-BlogIT Project is a single page app project built with nodejs (expressjs) and mongodb and it is just for practicing after taking nodejs related courses.
+BlogIT is a single page app project built with (MEVN Stack) nodejs (express), Vue and mongodb and it is just for practicing after taking nodejs related courses
 
 ## Installing
 
